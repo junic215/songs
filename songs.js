@@ -1,9 +1,9 @@
 const songs = [
     {
-        title: "Sample Song 1",
+        title: "Chillin' With My Friends",
         artist: "Unknown Artist",
         album: "Unknown Album",
-        cover: "https://placehold.co/300x300/1e1e1e/FFF?text=Music",
+        cover: "",
         file: "music/Chillin' With My Friends.mp3" 
     },
     {
@@ -14,5 +14,6 @@ const songs = [
         file: "music/sample2.mp3"
     }
 ];
+
 
 
